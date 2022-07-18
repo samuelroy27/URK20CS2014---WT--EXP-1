@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<body>
+<head>
+<title>MY RESUME page</title>
+
+<h1>SAMUEL ROY X</h1>
+<img align="right"src="https://i.pinimg.com/736x/c9/e3/e8/c9e3e810a8066b885ca4e882460785fa.jpg"width="150" height="150">
+<p>86,Voc Road,Cantonment,Trichy</p>
+<p>Ph:68xxx xxxxx</p>
+<p>Email:samuelroy20@karunya.edu.in</p>
+<p><b>----------------------------------------------------------------------------</b></p>
+
+<h4>CONTACT</h4>
+
+<p><b>Instagram :</b>_samuel_roy_</p>
+<p><b>Facebook :</b>_samuel_roy_</p>
+<p><b>Linkedin :</b>_samuel_roy_</p>
+<p><b>Twitter :</b>_samuel_roy_</p>
+<p><b>Github :</b>samuelroy27</p>
+<p><b>----------------------------------------------------------------------------</b></p>
+
+<h4>CAREER OBJECTIVE</h4>
+<br>
+<p>This is SAMUEL ROY X ,Looking for a challenging role in a reputable organization to utilize my technical, database, and management skills for the growth of the organization as well as to enhance my knowledge about new and emerging trends in the IT sector..</p>
+<p><b>----------------------------------------------------------------------------</b>
+
+<h4>ACADEMIC PROFILE</h4>
+<br>
+<style>
+table
+{border-collapse: collapse;
+width :100%;
+}
+th,td{
+    border: 2px solid rgb(0,9,128);
+    padding: 15px
+
+}
+</style>
+<table>
+<tr>
+<th>Education</th>
+<th>School or University</th>
+<th>Mark or CGPA</th>
+<th>Year Of Passing</th>
+<td rowspan = "5">ACADEMIC PROFILE(2018-2022)</td>
+</tr>
+
+
+<tr>
+<td>SSLC</td>
+<td>CMHSS</td>
+<td>457/500</td>
+<td>2018</td>
+</tr>
+
+<tr>
+<td>HSC 11TH</td>
+<td>CMHSS</td>
+<td>512/600</td>
+<td>2019</td>
+</tr>
+
+<tr>
+<td>HSC 12TH</td>
+<td>CMHSS</td>
+<td>547/600</td>
+<td>2019</td>
+</tr>
+
+<tr>
+<td>B.Tech</td>
+<td>KITS</td>
+<td>8.48</td>
+<td>2023</td>
+</tr>
+</table>
+<p><b>----------------------------------------------------------------------------</b>
+
+<h4>TECHNICAL SKILLS</h4>
+<ol>
+<li>Data Structures</li>
+<li>Computer Networks</li>
+<li>Web Technology</li>
+<li>Python Programming</li>
+<li>Java Programming</li>
+</ol>
+<p><b>----------------------------------------------------------------------------</b>
+
+<h4>ADVANCED TECHNOLOGY SKILLS</h4>
+<ul>
+<li>Data Science</li>
+<li>Data Analysis</li>
+<li>Machine Learning Principles</li>
+</ul>
+<p><b>----------------------------------------------------------------------------</b>
+	
+
+<h4>INTERNSHIP COMPLETED</h4>
+
+<h5>INFOSYS</h5>
+<p>Write about the internship</p>
+<h5>MICROSOFT</h5>
+<p>Write about the internship</p>
+<h5>CISCO</h5>
+<p>Write about the internship</p>
+<h5>Oracle</h5>
+<p>Write about the internship</p>
+<p><b>----------------------------------------------------------------------------</b>
+
+
+
+</head>   
+</body>
+</html>
+
